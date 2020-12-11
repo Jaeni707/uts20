@@ -1,2 +1,1 @@
-# uts20
-pemrograman3
+# ridacintiaUTS
